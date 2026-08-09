@@ -24,7 +24,7 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    JARVIS DEVELOPMENT SYSTEM                ║
+║                    JARVIS DEVELOPMENT SYSTEM                 ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  USER       :: Thiago Matos                                  ║
@@ -33,9 +33,9 @@
 ║  FOCUS      :: Back-end Development                          ║
 ║  STATUS     :: Learning / Building / Improving               ║
 ║                                                              ║
-║  PRIMARY    :: PHP                                            ║
-║  SECONDARY  :: Python                                         ║
-║  DATABASE   :: MySQL / SQL                                    ║
+║  PRIMARY    :: PHP                                           ║
+║  SECONDARY  :: Python                                        ║
+║  DATABASE   :: MySQL / SQL                                   ║
 ║  TOOLS      :: Git / GitHub / VS Code / XAMPP                ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
