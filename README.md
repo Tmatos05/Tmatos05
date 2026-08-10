@@ -24,7 +24,7 @@
 
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
-║                  JARVIS DEVELOPMENT SYSTEM                  ║
+║                  JARVIS DEVELOPMENT SYSTEM                   ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  USER       :: Thiago Matos                                  ║
@@ -157,7 +157,7 @@ programação, condicionais, loops, funções e operações bancárias.
 
 <br><br>
 
-<a href="Tmatos05/sistema-bancario-python">
+<a href="https://github.com/Tmatos05/sistema-bancario-python">
 <img src="https://img.shields.io/badge/VIEW_CODE-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -317,7 +317,7 @@ thiago@jarvis:~$ _
 ║                       SYSTEM LOG                             ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  [INFO] Development environment initialized                 ║
+║  [INFO] Development environment initialized                  ║
 ║  [INFO] Back-end module loaded                               ║
 ║  [INFO] PHP module ................. ONLINE                  ║
 ║  [INFO] Python module .............. ONLINE                  ║
