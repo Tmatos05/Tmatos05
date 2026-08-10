@@ -120,16 +120,16 @@ Gosto de aprender através da prática, criando projetos, resolvendo desafios e 
 
 <div align="center">
 
-| AREA | STATUS |
-| :--- | :---: |
-| PHP | 🟢 ACTIVE |
-| Python | 🟢 ACTIVE |
-| SQL / MySQL | 🟢 ACTIVE |
-| Back-end Development | 🟢 ACTIVE |
-| Git / GitHub | 🟢 ACTIVE |
-| APIs | 🟡 STUDYING |
-| Software Architecture | 🟡 STUDYING |
-| Laravel | 🟡 NEXT LEVEL |
+| AREA                  |     STATUS    |
+| :-------------------- | :-----------: |
+| PHP                   |   🟢 ACTIVE   |
+| Python                |   🟢 ACTIVE   |
+| SQL / MySQL           |   🟢 ACTIVE   |
+| Back-end Development  |   🟢 ACTIVE   |
+| Git / GitHub          |   🟢 ACTIVE   |
+| APIs                  |  🟡 STUDYING  |
+| Software Architecture |  🟡 STUDYING  |
+| Laravel               | 🟡 NEXT LEVEL |
 
 </div>
 
@@ -141,31 +141,6 @@ Gosto de aprender através da prática, criando projetos, resolvendo desafios e 
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔐 PHP Login System</h3>
-
-<p align="center">
-Sistema de login desenvolvido para praticar autenticação,
-formulários, validação de dados e integração com banco de dados.
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/Tmatos05">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -182,36 +157,8 @@ programação, condicionais, loops, funções e operações bancárias.
 
 <br><br>
 
-<a href="https://github.com/Tmatos05">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚗 Vehicle Registration System</h3>
-
-<p align="center">
-Sistema web para cadastro e gerenciamento de veículos
-utilizando PHP, HTML e MySQL.
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/Tmatos05">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/Tmatos05/Python-estudos">
+<img src="https://img.shields.io/badge/VIEW_CODE-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -233,8 +180,8 @@ de programação e resolução de problemas.
 
 <br><br>
 
-<a href="https://github.com/Tmatos05">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/Tmatos05/Python-estudos">
+<img src="https://img.shields.io/badge/VIEW_CODE-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -345,13 +292,13 @@ thiago@jarvis:~$ _
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
-&nbsp;
+ 
 
 <a href="SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
-&nbsp;
+ 
 
 <a href="mailto:SEU_EMAIL">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
@@ -398,3 +345,4 @@ thiago@jarvis:~$ _
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:071A22,100:0D1117&height=130&section=footer"/>
 
 </div>
+
